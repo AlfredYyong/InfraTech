@@ -151,7 +151,7 @@
 | [Kimi K2](./models/kimi_k_2)              | MLA+MoE                            | [link](./models/kimi_k_2/README.md)       | 
 | [DeepSeek V3.2](./models/deepseek_v3_2)   | MLA+DSA                            | [link](./models/deepseek_v3_2/README.md)  | 
 | [Kimi K2.5](./models/kimi_k_2_5)          | MLA+MoE+MoonViT                    | [link](./models/kimi_k_2_5/README.md)     | 
-| [Kimi K3](./models/kimi_k_3)              | KDA+Gated MLA+AttnRes+Stable LatentMoE | [link](./models/kimi_k_3/README.md)（权重待 2026-07-27 发布） | 
+| [Kimi K3](./models/kimi_k_3)              | KDA+Gated MLA+AttnRes+Stable LatentMoE | [link](./models/kimi_k_3/README.md)       | 
 | [GLM 5](./models/glm_5)                   | MLA(DSA)+MoE                       | [link](./models/glm_5/README.md)          | 
 | [MiniMax M2.5](./models/minimax_m_2_5)    | GQA+MoE                            | [link](./models/minimax_m_2_5/README.md)  |
 | [Qwen3-VL](./models/qwen3_vl)             | Dense+MoE+DeepStack+Interleaved-MRoPE | [link](./models/qwen3_vl/README.md)        |
